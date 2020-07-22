@@ -1,0 +1,5 @@
+﻿  huffmanINarray.cpp
+c:\users\khj\source\repos\huffmanencoding_inarray\huffmaninarray.cpp(75): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khj\source\repos\huffmanencoding_inarray\huffmaninarray.cpp(78): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\khj\source\repos\huffmanencoding_inarray\huffmaninarray.cpp(226): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  HuffmanEncoding_inArray.vcxproj -> C:\Users\khj\source\repos\HuffmanEncoding_inArray\Debug\HuffmanEncoding_inArray.exe
