@@ -1,0 +1,3 @@
+﻿  nodelist.cpp
+c:\users\khj\source\repos\datastruct2\nodelist.cpp(144): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  DataStruct2.vcxproj -> C:\Users\khj\source\repos\DataStruct2\Debug\DataStruct2.exe

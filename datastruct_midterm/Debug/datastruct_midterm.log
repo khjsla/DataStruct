@@ -1,0 +1,5 @@
+﻿  강현지_12163291.cpp
+c:\users\khj\source\repos\datastruct_midterm\강현지_12163291.cpp(50): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+  c:\users\khj\source\repos\datastruct_midterm\강현지_12163291.cpp(89): note: 컴파일 중인 클래스 템플릿 인스턴스화 'STACK<T>'에 대한 참조를 확인하세요.
+c:\users\khj\source\repos\datastruct_midterm\강현지_12163291.cpp(71): warning C4290: 함수가 __declspec(nothrow)가 아님을 나타내려는 경우를 제외하고 C++ 예외 사양은 무시됩니다.
+  datastruct_midterm.vcxproj -> C:\Users\khj\source\repos\datastruct_midterm\Debug\datastruct_midterm.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "진짜_자료구조_tree과제", "진짜_자료구조_tree과제.vcxproj", "{9E152B7B-13C8-42C7-AF77-FAE3A0E53A23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E152B7B-13C8-42C7-AF77-FAE3A0E53A23}.Debug|x64.ActiveCfg = Debug|x64
+		{9E152B7B-13C8-42C7-AF77-FAE3A0E53A23}.Debug|x64.Build.0 = Debug|x64
+		{9E152B7B-13C8-42C7-AF77-FAE3A0E53A23}.Debug|x86.ActiveCfg = Debug|Win32
+		{9E152B7B-13C8-42C7-AF77-FAE3A0E53A23}.Debug|x86.Build.0 = Debug|Win32
+		{9E152B7B-13C8-42C7-AF77-FAE3A0E53A23}.Release|x64.ActiveCfg = Release|x64
+		{9E152B7B-13C8-42C7-AF77-FAE3A0E53A23}.Release|x64.Build.0 = Release|x64
+		{9E152B7B-13C8-42C7-AF77-FAE3A0E53A23}.Release|x86.ActiveCfg = Release|Win32
+		{9E152B7B-13C8-42C7-AF77-FAE3A0E53A23}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44AB3655-C74B-4E1C-87B7-C66B1E5537B7}
+	EndGlobalSection
+EndGlobal
